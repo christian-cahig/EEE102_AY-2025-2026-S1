@@ -1,0 +1,11 @@
+**/.DS_Store
+
+**/*.ipynb_checkpoints/
+
+records/
+submissions/
+syllabus/
+
+materials/**/_*.ipynb
+materials/**/*anskey.ipynb
+materials/**/*solman.ipynb
